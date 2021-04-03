@@ -10,6 +10,6 @@ int main()
    setlocale(LC_ALL, "Turkish");
 
    cout << "Hello world \n";
-   cout << "Merhaba DÃ¼nya";
+   cout << "Merhaba Dünya :) ";
 }
 
